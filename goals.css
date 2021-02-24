@@ -1,0 +1,41 @@
+header{
+   
+    text-align: center;
+    font: 20px italic;
+    margin: 18px;
+}
+header a{
+   
+    margin:5%;
+}
+table{
+    margin: auto;
+    padding: auto;
+     border-spacing:37px;
+}
+
+table td{
+    padding:63px;
+    text-align: center;
+    background-color:rgb(117, 116, 116) ;
+    border-radius: 15px;
+ 
+}
+
+img{
+    width: 55px;
+    height: 55px;
+}
+
+span{
+    font: 142% bold black;
+}
+section{
+    border: 2px solid black;
+    border-radius: 15px;
+    margin: 35px;
+}
+
+section h1,section p{
+    margin: 25px;
+}

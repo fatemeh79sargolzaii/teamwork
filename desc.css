@@ -1,0 +1,43 @@
+header{
+    text-align: center;
+    font: 20px italic;
+    margin: 18px;
+}
+header a{
+    margin:5%; 
+}
+section{
+    border: 2px solid black;
+    border-radius: 15px;
+    margin: 35px;
+}
+
+section h1,section p{
+    margin: 25px;
+}
+table{
+    margin: auto;
+    padding: auto;
+     border-spacing:99px;
+}
+
+table td{
+    padding:83px;
+    text-align: center;
+    background-color: rgb(117, 116, 116);
+    border-radius: 5px;
+}
+
+img{
+    width: 85px;
+    height: 85px;
+}
+button{
+    background-color: tomato;
+    border-radius: 15px;
+    margin: 1px;
+    padding: 9px;
+    width: 78px;
+}
+
+
