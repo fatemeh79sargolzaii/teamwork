@@ -1,0 +1,85 @@
+.nav{
+    border:1px solid #ccc;
+    border-width:1px 0;
+    list-style:none;
+    margin:0;
+    padding:0;
+    text-align:center;
+    background-color: black;
+      border-radius: 20px;
+}
+.nav li{
+    display:inline;
+    margin: 21px;
+  
+}
+.nav a{
+    display:inline-block;
+    padding:20px;
+    font-size: 23px;
+   
+    color:white;
+}
+
+li a:hover {
+    background-color: rgba(196, 160, 187, 0.61);
+    color:rgb(204, 200, 194);
+}
+
+a{
+    text-decoration: none;
+}
+.main-con {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.item {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-right: 80px;
+    margin-left: 40px;
+    margin-top: 50px;
+    background-color: rgb(114, 113, 113);
+    border-radius: 5px;
+   
+}
+img{
+     width: 55px;
+    
+     margin: 25px;
+}
+
+h1* {
+    margin: 20px;
+    padding: 10px;
+}
+
+section {
+    margin: 30px;
+    padding: 30px;
+    border: 2px solid rgb(86, 74, 99);
+    border-radius: 9px;
+
+}
+
+.t3 {
+    border-right: 3px solid rgb(86, 74, 99);
+    padding-right:15px;
+}
+
+button{
+    margin: 15px;
+}
